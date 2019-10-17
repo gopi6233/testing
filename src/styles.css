@@ -7,4 +7,8 @@ body {
 
 .nb li {
   list-style-type: none;
+  display: inline-block;
+}
+.dib {
+  display: inline-block;
 }
